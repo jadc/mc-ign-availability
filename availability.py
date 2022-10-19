@@ -1,6 +1,6 @@
 # Minecraft Username Availability Checker
 # https://github.com/jadc/mc-ign-availability
-# by Jad Chehimi
+# by jadc
 
 import requests
 import sys
